@@ -1,0 +1,4 @@
+﻿  Program2.cpp
+e:\programy\visual projects\gk\program2\program2\program2.cpp(40): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+e:\programy\visual projects\gk\program2\program2\program2.cpp(41): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  Program2.vcxproj -> E:\Programy\visual projects\GK\Program2\Debug\Program2.exe

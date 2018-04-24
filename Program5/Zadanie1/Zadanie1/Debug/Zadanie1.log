@@ -1,0 +1,5 @@
+﻿  Zadanie1.cpp
+e:\programy\visual projects\gk\program5\zadanie1\zadanie1\zadanie1.cpp(893): fatal error C1010: Nieoczekiwany koniec pliku podczas wyszukiwania prekompilowanego nagłówka. Czy zapomniano dodać "#include "stdafx.h"" do twojego źródła?
+  VectorMath.cpp
+e:\programy\visual projects\gk\program5\zadanie1\zadanie1\vectormath.cpp(124): fatal error C1010: Nieoczekiwany koniec pliku podczas wyszukiwania prekompilowanego nagłówka. Czy zapomniano dodać "#include "stdafx.h"" do twojego źródła?
+  Generowanie kodu...
