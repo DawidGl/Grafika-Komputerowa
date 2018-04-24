@@ -1,9 +1,0 @@
-﻿  Zadanie1.cpp
-e:\programy\visual projects\gk\program3\zadanie1\zadanie1\zadanie1.cpp(43): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
-e:\programy\visual projects\gk\program3\zadanie1\zadanie1\zadanie1.cpp(146): warning C4305: "+=": obcięcie z "double" do "GLfloat"
-e:\programy\visual projects\gk\program3\zadanie1\zadanie1\zadanie1.cpp(151): warning C4305: "-=": obcięcie z "double" do "GLfloat"
-e:\programy\visual projects\gk\program3\zadanie1\zadanie1\zadanie1.cpp(212): warning C4305: "argument": obcięcie z "double" do "GLfloat"
-e:\programy\visual projects\gk\program3\zadanie1\zadanie1\zadanie1.cpp(214): warning C4305: "argument": obcięcie z "double" do "GLfloat"
-e:\programy\visual projects\gk\program3\zadanie1\zadanie1\zadanie1.cpp(216): warning C4305: "argument": obcięcie z "double" do "GLfloat"
-e:\programy\visual projects\gk\program3\zadanie1\zadanie1\zadanie1.cpp(218): warning C4305: "argument": obcięcie z "double" do "GLfloat"
-LINK : fatal error LNK1168: nie można otworzyć pliku E:\Programy\visual projects\GK\Program3\Zadanie1\Debug\Zadanie1.exe do zapisu
